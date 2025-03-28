@@ -21,5 +21,5 @@ The primary objective of the analysis is to extract insights about the attendanc
 'HR Analytics_PowerBI.pbix' - Power BI file with visual dashboard and analysis
 
 ## View the full report
-[Click here to view the Power BI Report (PDF)](https://drive.google.com/file/d/17JNIB896FN64a_1BcZmV1mNQnu0A4rE8/view?usp=sharing)
+[Click here to view the Power BI Report (PDF)](https://drive.google.com/file/d/1j48BNh93sQREbkMgmWhZE0IIvBrU_NuG/view?usp=sharing)
 
