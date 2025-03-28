@@ -5,9 +5,6 @@ The primary objective of the analysis is to extract insights about the attendanc
 - % of opting Work From Home over time
 - % of Sick Leaves among employees over time
 
-## File
-'HR Analytics_PowerBI.pbix' - Power BI file with visual dashboard and analysis
-
 ## Observations
 -The presence % is relatively high showing consistency among employees
 -There is a gradual decrease in presence % towards the month of June and an upward trend in the % of sick leaves.  
@@ -19,3 +16,10 @@ The primary objective of the analysis is to extract insights about the attendanc
 -Periodic employee wellness checks during flu seasons or epidemics
 -Efffecient workload distribution throughout the week.
 -A hybrid system where employees can take turns on on-site and WFH duty throughout the week so that office premises can have the optimum use of resources
+
+## File
+'HR Analytics_PowerBI.pbix' - Power BI file with visual dashboard and analysis
+
+## View the full report
+[Click here to view the Power BI Report (PDF)](https://drive.google.com/file/d/17JNIB896FN64a_1BcZmV1mNQnu0A4rE8/view?usp=sharing)
+
