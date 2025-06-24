@@ -13,7 +13,7 @@ This project involved the entire ETL pipeline:
 🔹 Designing an interactive dashboard with key business indicators
 
 
-##🔍 Focus Areas:
+🔍 Focus Areas:
 
 • Subscriber activity, growth, and inactivity patterns and content consumption behaviour
 
@@ -24,7 +24,7 @@ This project involved the entire ETL pipeline:
 • Watch time distribution by user cohorts
 
 
-##💡 Key Insights:
+💡 Key Insights:
 
 • Jotstar leads in ARPU and Tier 1 urban reach, while Liocinema dominates in Tier 2 with broader user base
 
