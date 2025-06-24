@@ -38,3 +38,5 @@ This project involved the entire ETL pipeline:
 
 
 Link to Live Dashboard -  https://lnkd.in/gzcm8eQa
+
+![Content Consumption Analysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Content%20Consumption%20Ott.png?raw=true)
