@@ -38,5 +38,18 @@ This project involved the entire ETL pipeline:
 
 
 Link to Live Dashboard -  https://lnkd.in/gzcm8eQa
+![Home Page](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Home%20Page%20ott.png?raw=tre)
+
+![User Anlysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/User%20Analysis%20ott.png?raw=true)
+
+![Content Library](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Content%20library%20ott.png?raw=true)
+
+![Upgrade Analysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Upgrades%20ott.png?raw=true)
+
+![Downgrade Analysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Downgrades%20ott.png?raw=true)
+
+![Inactivity Analysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Inactivity%20ott.png?raw=true)
 
 ![Content Consumption Analysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/Content%20Consumption%20Ott.png?raw=true)
+
+![Revenue Analysis](https://github.com/anu-gith/Portfolio_Projects/blob/main/OTT-Merger-Analysis/revenue%20ott.png?raw=true)
