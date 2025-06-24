@@ -37,4 +37,4 @@ This project involved the entire ETL pipeline:
 • Combining Jotstar's premium content & Liocinema's regional strength could build a market-leading OTT platform
 
 
-##Link to Live Dashboard -  https://lnkd.in/gzcm8eQa
+Link to Live Dashboard -  https://lnkd.in/gzcm8eQa
